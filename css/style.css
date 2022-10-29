@@ -10,8 +10,8 @@
 }
 
 header{
-    max-width: 1440px;
-    max-height: 120px;
+    width: 1440px;
+    height: 120px;
     background-color: #FCFCFF;
     display: flex;
     flex-direction: row;
@@ -26,6 +26,7 @@ header{
 nav{
     margin: 40px 113px 36px 281px;
 }
+
 nav ul{
     display: flex;
     flex-direction: row;
@@ -35,6 +36,7 @@ li{
     padding: 10px 15px;
     list-style: none;
 }
+
 a{
     color: #202142;
     text-decoration: none;
@@ -50,13 +52,17 @@ a{
 .profile{
     width: 284px;
     height: 54px;
-    /*justify-content: space-between;*/
+    display: flex;
+    justify-content: space-between;
     align-items: center;
+    flex-direction: row;
+    align-items: center;
+    margin: 35px 49px 31px 0px ;
 }
+
 .image-profile{
     width: 38px;
     height: 38px;
-    margin: 43px 20px 39px 20px;
 }
 
 .upload{
@@ -70,6 +76,7 @@ a{
     padding: 15px;
     font-size: 16px;
     border-radius: 10px;
+
 }
 
 aside{
@@ -92,11 +99,12 @@ aside div{
 }
 
 main{
-    margin-top: 170px ;
+    /*margin-top: 170px ;*/
     float: right;
     display: flex;
     flex-direction: column;
-    width: 969px;
+    max-width: 969px;
+    padding: 170px 292px 30px 86px;
 }
 
 
@@ -152,12 +160,15 @@ main h2{
 form{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
 }
 
 .form{
     display: flex;
     flex-direction: column;
+}
+.form2{
+    margin-left: 26px;
 }
 
 form label{
@@ -179,6 +190,7 @@ form input{
 }
 
 .save{
+    margin-top: 30px;
     width: 183px;
     height: 54px;
     background-color: #202142;
@@ -187,6 +199,7 @@ form input{
     font-family: Poppins, sans-serif;
     font-size: 16px;
     padding: 15px 30px;
+    border-radius: 10px;
 }
 
 .delete-account{

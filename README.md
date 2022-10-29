@@ -5,11 +5,13 @@
 
 # Sobre o Projeto
 
-O projeto é referente a matéria de Usabilidade, desenvolvimento web, mobile e jogos.Foi proposto, como avaliação prática, a implementação de Interfaces Web. 
+O projeto é referente a matéria de Usabilidade, desenvolvimento web, mobile e jogos. Foi proposto, como avaliação prática, a implementação de Interfaces Web. 
 
 A interface feita nesse projeto foi a tela de configuração de conta. A ideia é que a implementação da tela seja o mais fiel possível ao protótipo de tela fornecido pelo professor.
 
 O protótipo está disponivel [nesse link](https://uidesigndaily.com/posts/figma-account-settings-form-day-1388).
+
+Caso deseja ver a versão final da implementação da tela de configuração de conta, basta acessar [esse link](https://configuracoes-conta-c6aroq9ez-annekarolinefc.vercel.app/)
 
 # Índice/Sumário
 
@@ -25,9 +27,8 @@ O protótipo está disponivel [nesse link](https://uidesigndaily.com/posts/figma
 
 # Requisitos Funcionais 
 
-- [x] **botão de Upload**
-- [x] **Menu de navegação**
-- [x] **Header completo**
+- [x] **Botão de Upload**
+- [x] **Menu de navegação de página no header**
 - [x] **Menu com opções de configuração**
 - [x] **Tela de configuração da conta, com formulário**
 
