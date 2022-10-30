@@ -7,11 +7,11 @@
 
 O projeto é referente a matéria de Usabilidade, desenvolvimento web, mobile e jogos. Foi proposto, como avaliação prática, a implementação de Interfaces Web. 
 
-A interface feita nesse projeto foi a tela de configuração de conta. A ideia é que a implementação da tela seja o mais fiel possível ao protótipo de tela fornecido pelo professor.
+A interface feita nesse projeto foi a **tela de configuração de conta**. A ideia é que a implementação da tela seja o mais fiel possível ao protótipo de tela fornecido pelo professor.
 
-O protótipo está disponivel [nesse link](https://uidesigndaily.com/posts/figma-account-settings-form-day-1388).
+O protótipo está disponível [nesse link](https://uidesigndaily.com/posts/figma-account-settings-form-day-1388).
 
-Caso deseja ver a versão final da implementação da tela de configuração de conta, basta acessar [esse link](https://configuracoes-conta-c6aroq9ez-annekarolinefc.vercel.app/)
+Caso deseja ver a versão final da implementação da **tela de configuração de conta**, basta acessar [esse link](https://configuracoes-conta.vercel.app/)
 
 # Índice/Sumário
 
@@ -49,13 +49,13 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
   <tbody>
     <tr>
     <td align="center">
-	  	<a href="https://kentcdodds.com">
+	  	<a href="https://github.com/annekarolinefc">
 			<img src="ft_Anne.jpg" width="100px;" alt="Anne Karoline"/>
 			<br />
 			<sub><b>Anne K. F. Carmo</b></sub>
 		</a>
 		<br />
-		<a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻</a>
+		<a href="https://github.com/annekarolinefc" title="Code">💻</a>
 	</td>
     </tr>
 	</tbody>
