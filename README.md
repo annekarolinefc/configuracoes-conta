@@ -1,5 +1,6 @@
-# Título do Projeto
+# Tela de Configuração de conta
 
+Protótipo disponibilizado:
 
 ![Capa do Projeto](./images/day_1388.png)
 
